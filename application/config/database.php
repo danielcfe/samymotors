@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'tunnel.pagodabox.com:3306';
 $db['default']['username'] = 'alyce';
-$db['default']['password'] = 'alyce';
+$db['default']['password'] = '2gQayi3w';
 $db['default']['database'] = 'sammy_bd';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
